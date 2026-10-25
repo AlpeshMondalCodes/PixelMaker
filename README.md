@@ -1,5 +1,7 @@
 # PixelMaker
 
+-# thanks to [Alpesh](https://github.com/AlpeshMondalCodes)
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-orange.svg)](https://customtkinter.tomschimansky.com/)
 [![Pillow](https://img.shields.io/badge/Pillow-10.0%2B-yellow.svg)](https://python-pillow.org/)
