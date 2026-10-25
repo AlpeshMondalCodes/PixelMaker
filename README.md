@@ -1,6 +1,6 @@
 # PixelMaker
 
--# thanks to [Alpesh](https://github.com/AlpeshMondalCodes)
+thanks to [Alpesh](https://github.com/AlpeshMondalCodes) - he revived the app
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-orange.svg)](https://customtkinter.tomschimansky.com/)
